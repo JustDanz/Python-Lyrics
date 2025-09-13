@@ -27,4 +27,5 @@ def main():
             time.sleep(next_line_delay)
 
 if __name__ == "__main__":
+
     main()
